@@ -1,7 +1,7 @@
 {
-	"name": "multer-gridfs-storage",
+	"name": "joep-multer-gridfs-storage",
 	"version": "5.0.2",
-	"description": "Multer storage engine for GridFS",
+	"description": "Multer storage engine for GridFS - Joe P fork",
 	"main": "lib/index.js",
 	"scripts": {
 		"compile": "del-cli ./lib/** && tsc --declaration",
