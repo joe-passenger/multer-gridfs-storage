@@ -1,3 +1,7 @@
+# 5.1.0
+* now requiring mongodb v6+
+* removed dependency on @types/mongodb in favor of built-in types that mongodb package now provides
+
 # 5.0.2
 
 * Fixed: Solved bug when not using the client parameter and the topology is not present in the db object #377
