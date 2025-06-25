@@ -1,6 +1,6 @@
 {
 	"name": "joep-multer-gridfs-storage",
-	"version": "5.2.0",
+	"version": "5.2.1",
 	"description": "Multer storage engine for GridFS - Joe P fork",
 	"main": "lib/index.js",
 	"scripts": {
@@ -46,7 +46,7 @@
 		"pump": "^3.0.0"
 	},
 	"peerDependencies": {
-		"multer": "^1.4.2"
+		"multer": "^2.0.1"
 	},
 	"devDependencies": {
 		"@ava/typescript": "^2.0.0",
